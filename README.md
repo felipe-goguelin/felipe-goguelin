@@ -1,8 +1,7 @@
 
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/felipe-goguelin/felipe-goguelin/96148fc5bfd8eb5518c9574646eccb8dcd6a2602/fotoGitHub.png" alt="Felipe Goguelin" width="180px" style="border-radius: 50%;">
-</p>
+
+
 </p>
 <h1 align="center">Olá, eu sou **Felipe Goguelin de Mello** 👋</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (2º Período)</h3>
