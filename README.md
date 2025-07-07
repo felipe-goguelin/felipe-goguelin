@@ -1,4 +1,6 @@
-
+<p align="center">
+</p>
+  <img src="https://www.canva.com/design/DAGRTjK2b9c/8O5SDgjoe-iT68Z2YTmV4w/edit?utm_content=DAGRTjK2b9c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Foto de Perfil do Felipe" width="150px">
 
 <p align="center">
   </p>
