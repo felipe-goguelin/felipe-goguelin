@@ -24,7 +24,7 @@
 <h3 align="left">🔗 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-goguelin-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Felipe Goguelin Dev" height="30" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+  <a href="mailto:felipegoguelin@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
   </p>
 
 <h3 align="center">🛠️ Linguagens e Ferramentas:</h3>
