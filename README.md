@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Olá, eu sou **Felipe Goguelin de Mello** 👋</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (2º Período)</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
 <h3 align="center">Desenvolvedor Full-Stack | Entusiasta da IA no Desenvolvimento 🚀</h3>
 
 ---
