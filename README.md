@@ -85,7 +85,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Goguelin&show_icons=true&theme=dark&hide_border=true" alt="Felipe Goguelin GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Goguelin&theme=dark" alt="Felipe Goguelin GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Felipe-Goguelin&theme=dark" alt="Felipe Goguelin GitHub Streak" />
 </p>
 
 <h3 align="center">🏆 Troféus GitHub:</h3>
