@@ -41,18 +41,18 @@
 <h2 align="center">✅ Tecnologias que Domino</h2>
 
 <p align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express"/>
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="GitHub"/>
+</p>
+
 </p>
 
 ---
@@ -62,26 +62,24 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" alt="GraphQL"/>
-  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"/>
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" alt="Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" alt="Vue.js"/>
+
 </p>
 
 ---
 
 <p align="center">
   <em>
-    O universo da tecnologia está em constante evolução, e considero essencial experimentar novas ferramentas e linguagens. As tecnologias apresentadas aqui refletem tanto minha vivência prática quanto meu interesse em continuar aprendendo e me desenvolvendo como profissional.
+    O universo da tecnologia está em constante evolução, e considero essencial experimentar novas ferramentas e linguagens.  
+    As tecnologias apresentadas aqui refletem tanto minha vivência prática quanto meu interesse em continuar aprendendo e me desenvolvendo como profissional.
   </em>
 </p>
 
----
-
-<h3 align="center">📈 Minhas Estatísticas no GitHub:</h3>
+<h3 align="center">📊 Minhas Estatísticas no GitHub:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Goguelin&show_icons=true&theme=dark&hide_border=true" alt="Felipe Goguelin GitHub Stats" />
   <br>
@@ -93,7 +91,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Felipe-Goguelin&row=1&no-bg=true&theme=onedark" alt="Felipe Goguelin GitHub Trophies" />
 </p>
 
-<h3 align="center">Most used languages:</h3>
+<h3 align="center">📊 Linguagens mais usadas:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Goguelin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
