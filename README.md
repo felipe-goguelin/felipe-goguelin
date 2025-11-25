@@ -16,7 +16,7 @@
 
 <h3 align="left">🌟 Sobre Mim:</h3>
 <p align="left">
-  Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas (2º período), com uma paixão crescente por construir soluções Full-Stack. Meu grande interesse está na <b>integração da Inteligência Artificial no desenvolvimento de software</b>, buscando formas inovadoras de otimizar e expandir as capacidades das aplicações.
+  Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas (3º período), com uma paixão crescente por construir soluções Full-Stack. Meu grande interesse está na <b>integração da Inteligência Artificial no desenvolvimento de software</b>, buscando formas inovadoras de otimizar e expandir as capacidades das aplicações.
   <br><br>
   Estou sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades e aprender com desafios reais. Atualmente busco oportunidades de estágio ou projetos colaborativos que me permitam aplicar e expandir meus conhecimentos em desenvolvimento e IA.
 </p>
