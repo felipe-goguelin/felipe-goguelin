@@ -1,12 +1,19 @@
 
+
+
+<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
+
 ###
 <div align="center">
   <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
 </div>
 
 ###
+<div align="center">
+  <img height=80px  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello,+World!👋;+I+am+Felipe+Goguelin+de+Mello;Full-Stack+Developer+JavaScript&repeat=false&alt="Typing SVG"" />
+</div>
 
-<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
+
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
 <h3 align="center">🚀 Desenvolvedor Full-Stack | IA aplicada ao Desenvolvimento</h3>
 
@@ -50,11 +57,11 @@
 <h2 align="center">✅ Tecnologias que Domino</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48" alt="Express"/>
