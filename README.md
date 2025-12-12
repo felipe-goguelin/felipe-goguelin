@@ -1,12 +1,20 @@
 
+###
+<div align="center">
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
+</div>
+
+###
+
+
 
 <p align="center">
-  </p>
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEV%20⚡-Futuristic-blueviolet?style=for-the-badge&logo=rocket" alt="Badge Futurista Full-Stack" />
+</p>
 
-
-<h1 align="center">Olá, eu sou **Felipe Goguelin de Mello** 👋</h1>
+<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
-<h3 align="center">Desenvolvedor Full-Stack | Entusiasta da IA no Desenvolvimento 🚀</h3>
+<h3 align="center">🚀 Desenvolvedor Full-Stack | IA aplicada ao Desenvolvimento</h3>
 
 ---
 
@@ -16,31 +24,31 @@
 
 <h3 align="left">🌟 Sobre Mim:</h3>
 <p align="left">
-  Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas (3º período), com uma paixão crescente por construir soluções Full-Stack. Meu grande interesse está na <b>integração da Inteligência Artificial no desenvolvimento de software</b>, buscando formas inovadoras de otimizar e expandir as capacidades das aplicações.
+  Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas (3º período), com uma paixão crescente por construir soluções <b>Full-Stack robustas e escaláveis</b>.  
+  Meu grande diferencial está na <b>integração da Inteligência Artificial no desenvolvimento de software</b>, explorando formas inovadoras de otimizar processos e ampliar as capacidades das aplicações.  
   <br><br>
-  Estou sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades e aprender com desafios reais. Atualmente busco oportunidades de estágio ou projetos colaborativos que me permitam aplicar e expandir meus conhecimentos em desenvolvimento e IA.
+  Estou sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos reais. Atualmente busco oportunidades de estágio ou colaborações que me permitam evoluir como desenvolvedor Full-Stack e aplicar IA de forma prática e estratégica.
 </p>
 
 <h3 align="left">🔗 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-goguelin-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Felipe Goguelin Dev" height="30" /></a>
   <a href="mailto:felipegoguelin@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
-  </p>
+</p>
 
-
+---
 
 <h1 align="center">🚀 Linguagens e Ferramentas</h1>
 
-
 <p align="center">
-  Esta seção apresenta as principais tecnologias que utilizo no meu dia a dia de desenvolvimento, bem como aquelas que estou explorando para expandir meus conhecimentos e habilidades. Acreditando que aprender é um processo contínuo, busco sempre estar atualizado com as tendências do universo da tecnologia.
+  Esta seção apresenta as principais tecnologias que utilizo no meu dia a dia de desenvolvimento, bem como aquelas que estou explorando para expandir meus conhecimentos e habilidades.  
+  Acredito que aprender é um processo contínuo e busco sempre estar atualizado com as tendências do universo da tecnologia.
 </p>
 
 ---
 
 <h2 align="center">✅ Tecnologias que Domino</h2>
 
-<p align="center">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
@@ -51,8 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/>
-</p>
-
 </p>
 
 ---
@@ -67,7 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" alt="Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" alt="Angular"/>
-
 </p>
 
 ---
@@ -91,9 +96,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Felipe-Goguelin&row=1&no-bg=true&theme=onedark" alt="Felipe Goguelin GitHub Trophies" />
 </p>
 
+
 <h3 align="center">📊 Linguagens mais usadas:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Goguelin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
-
