@@ -1,22 +1,23 @@
 
 
-
-<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
-
 ###
 <div align="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
+ <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
 </div>
 
 ###
+
+
 <div align="center">
-  <img height=80px  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello,+World!👋;+I+am+Felipe+Goguelin+de+Mello;Full-Stack+Developer+JavaScript&repeat=false&alt="Typing SVG"" />
-</div>
+<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋
+<img height=80px  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack+JavaScript&repeat=false&alt="Typing SVG"" />
+</h1>
+
 
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
-<h3 align="center">🚀 Desenvolvedor Full-Stack | IA aplicada ao Desenvolvimento</h3>
 
+###
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL--STACK%20DEV%20⚡-Futuristic-blueviolet?style=for-the-badge&logo=rocket" alt="Badge Futurista Full-Stack" />
@@ -31,10 +32,9 @@
 
 <h3 align="left">🌟 Sobre Mim:</h3>
 <p align="left">
-  Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas (3º período), com uma paixão crescente por construir soluções <b>Full-Stack robustas e escaláveis</b>.  
-  Meu grande diferencial está na <b>integração da Inteligência Artificial no desenvolvimento de software</b>, explorando formas inovadoras de otimizar processos e ampliar as capacidades das aplicações.  
-  <br><br>
-  Estou sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos reais. Atualmente busco oportunidades de estágio ou colaborações que me permitam evoluir como desenvolvedor Full-Stack e aplicar IA de forma prática e estratégica.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full-Stack apaixonado por criar soluções completas do front-end ao back-end. A motivação está em transformar ideias em aplicações funcionais, escaláveis e inteligentes, explorando também o potencial da Inteligência Artificial para ampliar as capacidades dos projetos.
+
+Sempre em busca de novos aprendizados, com experiência em JavaScript, TypeScript, React, Node.js, Express e PostgreSQL, e explorando ferramentas como MongoDB, Docker e Angular. O objetivo é evoluir continuamente, colaborar em projetos reais e construir soluções que façam diferença.
 </p>
 
 <h3 align="left">🔗 Conecte-se comigo:</h3>
@@ -45,17 +45,17 @@
 
 ---
 
-<h1 align="center">🚀 Linguagens e Ferramentas</h1>
+<h2 align="center">🚀 Linguagens e Ferramentas</h2>
 
 <p align="center">
   Esta seção apresenta as principais tecnologias que utilizo no meu dia a dia de desenvolvimento, bem como aquelas que estou explorando para expandir meus conhecimentos e habilidades.  
   Acredito que aprender é um processo contínuo e busco sempre estar atualizado com as tendências do universo da tecnologia.
 </p>
 
----
 
-<h2 align="center">✅ Tecnologias que Domino</h2>
 
+<h3 align="center">✅ Tecnologias que Domino</h3>
+<br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
@@ -70,7 +70,7 @@
 
 ---
 
-<h2 align="center">📚 Tecnologias que Estou Aprendendo</h2>
+<h3 align="center">📚 Tecnologias que Estou Aprendendo</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP"/>
@@ -96,11 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Goguelin&show_icons=true&theme=dark&hide_border=true" alt="Felipe Goguelin GitHub Stats" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=Felipe-Goguelin&theme=dark" alt="Felipe Goguelin GitHub Streak" />
-</p>
-
-<h3 align="center">🏆 Troféus GitHub:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Felipe-Goguelin&row=1&no-bg=true&theme=onedark" alt="Felipe Goguelin GitHub Trophies" />
 </p>
 
 
