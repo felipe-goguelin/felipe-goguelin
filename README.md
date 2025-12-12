@@ -1,20 +1,20 @@
 
 ###
 <div align="center">
-  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
 </div>
 
 ###
 
+<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
+<h3 align="center">🚀 Desenvolvedor Full-Stack | IA aplicada ao Desenvolvimento</h3>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL--STACK%20DEV%20⚡-Futuristic-blueviolet?style=for-the-badge&logo=rocket" alt="Badge Futurista Full-Stack" />
 </p>
 
-<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
-<h3 align="center">🚀 Desenvolvedor Full-Stack | IA aplicada ao Desenvolvimento</h3>
 
 ---
 
