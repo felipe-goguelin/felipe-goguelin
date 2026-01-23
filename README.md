@@ -1,12 +1,18 @@
+<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
+<div align="center">
+  <img
+    height="80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=700&lines=Automação+e+Integração+de+Dados;FastAPI+%7C+Flask+%7C+Pandas+%7C+SQL;Base+Full+Stack+com+JavaScript%2C+React+e+Node.js;Python+Developer&repeat=false"
+    alt="Typing SVG"
+  />
+</div>
+
+
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3Y2dmbXZ1a2dxcWhienMyOHQyYTFzNG54czMybWViZHMzMHgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Python GIF" />
 </div>
 
-<h1 align="center">Olá, eu sou <b>Felipe Goguelin de Mello</b> 👋</h1>
 
-<div align="center">
-  <img height="80" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Automação+%26+Análise+de+Dados;FastAPI+%7C+Flask+%7C+Pandas+%7C+SQL;Python+Developer&repeat=false" alt="Typing SVG" />
-</div>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas (3º Período)</h3>
 
