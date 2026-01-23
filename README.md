@@ -43,6 +43,19 @@ Meu foco é atuar como **Desenvolvedor Python**, contribuindo com equipes que bu
 
 ---
 
+## 🔗 Conecte-se Comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-goguelin-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:felipegoguelin@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
+  </a>
+</p>
+<br/>
+
+---
+
 ## 🚀 Tecnologias & Ferramentas
 
 ### 🐍 Stack Principal — Python & Backend
@@ -55,7 +68,7 @@ Meu foco é atuar como **Desenvolvedor Python**, contribuindo com equipes que bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
 </p>
 
-### 🌐 Background Full Stack (Diferencial)
+### 🌐 Background Full Stack 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
@@ -92,12 +105,4 @@ Meu foco é atuar como **Desenvolvedor Python**, contribuindo com equipes que bu
 
 ---
 
-## 🔗 Conecte-se Comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipe-goguelin-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:felipegoguelin@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
-  </a>
-</p>
+
