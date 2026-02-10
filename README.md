@@ -45,14 +45,6 @@ Currently improving skills in **Software Engineering**, **Data Engineering**, an
 
 ---
 
-## 🔹 Selected Projects
-
-* **[Data Engineering Pipeline](https://github.com/felipe-goguelin)**: Automated ETL pipeline for extracting, transforming, and loading datasets into SQL databases.
-* **[REST API Backend](https://github.com/felipe-goguelin)**: Scalable FastAPI implementation with authentication and clean architecture.
-* **[Automation Scripts](https://github.com/felipe-goguelin)**: Web scraping and data cleaning scripts for analytics.
-
----
-
 ## 📨 Contact
 `Email:` [felipegoguelin@gmail.com](mailto:felipegoguelin@gmail.com)  
 `LinkedIn:` [linkedin.com/in/felipe-goguelin](https://linkedin.com/in/felipe-goguelin)  
